@@ -1,0 +1,65 @@
+* {
+
+  box-sizing: border-box;
+
+}
+
+ 
+
+body {
+
+  margin: 0;
+
+  padding: 5px;
+
+  font-family: system-ui, sans-serif;
+
+  color: black;
+
+  background-color:white;
+
+}
+
+ 
+
+.App{
+
+align-items: center;
+
+display: flex;
+
+justify-content: start;
+
+flex-direction: column;
+
+}
+
+ 
+
+button{
+
+  margin: 5px;
+
+  width: 100%;
+
+  background-color: aqua;
+
+}
+
+ 
+
+input{
+
+width:100%;
+
+}
+
+ 
+
+.TodoList{
+
+display: flex;
+
+flex-direction: row;
+
+}
